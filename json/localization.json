@@ -133,6 +133,8 @@
 		["label:\"Add to dictionary\"","label:\"添加到字典\""],
 		["label:\\((.)\\?\"Hide\":\"Show\"\\)\\+\" Toggle Chan&ges Filter\"","label:($1?\"隐藏\":\"显示\")+\"更改内容过滤器(&G)\""],
 		["\"Open &with…\"","\"使用...打开(&W)\""],
+		["\"Wor&ktrees list\"","\"工作树列表（&K）\""],
+		["\"New work&tree…\"","\"新建工作树...（&T）\""],
 		["\"\"","\"\""]
 	],
 	"main_dev":[
