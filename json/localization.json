@@ -997,7 +997,6 @@
 		["\" Resolve with Copilot\"","\" 让 Copilot 协助解决\""],
 		["\"Resolve all changes before continuing\"","\"请先处理所有变更再继续\""],
 		["null,\"Models\"","null,\"模型\""],
-		["\"span\",null,\"Providers\"","\"span\",null,\"提供商\""],
 		["\"Tailor how Copilot behaves by using\",\" \",(..).createElement\\((..),\\{uri:\"https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-custom-instructions\"\\},\"custom instructions\"\\),\".\"\\)","\"通过\",\" \",$1.createElement($2,{uri:\"https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-custom-instructions\"},\"自定义指令\"),\" 来调整 Copilot 的行为方式。\")"],
 		["\"Commit message generation\"","\"提交信息生成\""],
 		["\"Learn more about generating commit messages.\"","\"了解更多关于生成提交消息的信息。\""],
