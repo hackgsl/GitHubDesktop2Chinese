@@ -72,12 +72,6 @@
 ```
  - **或者通过加载器按提示选择自动开启预览版功能**
 
-## 🤖3.4.19版本代码开始支持, 3.5.0正式版前端界面支持AI生成提交摘要
-> 3.4.19 仅预览版支持显示AI按钮,或者通过上述手段开启预览版选项  
-  3.5.0  已经默认在添加协作者右侧显示
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cf9eff13-4bfc-4965-ac09-15d9e4d2b6dc" alt="AI机器人" width="300px">
-</p>
 
 ## 🧭其他
 
@@ -118,7 +112,7 @@
  - [x] 读取GitHub Desktop的最新版和本地版本比较，如果有新版，则用其他颜色给出提示
 
 ## 🍬星标(收藏)历史
-![Star History Chart](https://api.star-history.com/svg?repos=cngege/GitHubDesktop2Chinese&type=Date)
+![Star History Chart](https://star-history.dera.page/svg?repos=cngege/GitHubDesktop2Chinese&type=Date)
 
 ## 🏘️感谢大家的群策群力  
 ![Contributors](https://contrib.rocks/image?repo=cngege/GitHubDesktop2Chinese)
